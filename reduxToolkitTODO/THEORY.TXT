@@ -1,0 +1,8 @@
+1.) Make a app folder inside src
+2.) Make a file called store.js inside app
+3.) Then 2 lines:
+                i.) configureStore from reduxjs/toolkit
+               ii.) export const store = configureStore({})
+
+4.) Make a floder called features inside src
+5.) Then create 'slice' file 
